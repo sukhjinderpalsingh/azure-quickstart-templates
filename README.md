@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/sukhjinderpalsingh0949/c442737e-51fc-4b0f-b9a9-8fa46f79f84b/6d188f0e-c63f-4273-8b90-cd206efdeaef/_apis/work/boardbadge/4576d2e4-1490-4a50-9781-eb4ba6b39ade)](https://dev.azure.com/sukhjinderpalsingh0949/c442737e-51fc-4b0f-b9a9-8fa46f79f84b/_boards/board/t/6d188f0e-c63f-4273-8b90-cd206efdeaef/Microsoft.RequirementCategory)
 # Azure Resource Manager QuickStart Templates
 [![Travis](https://img.shields.io/travis/Azure/azure-quickstart-templates/master.svg?label=travis&style=flat-square)](https://travis-ci.org/Azure/azure-quickstart-templates)
 
